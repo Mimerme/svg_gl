@@ -1,6 +1,6 @@
-# SVG [![Package][package-img]][package-url] [![Documentation][documentation-img]][documentation-url] [![Build][build-img]][build-url]
+# SVG_GL [![Package][package-img]][package-url] [![Documentation][documentation-img]][documentation-url] [![Build][build-img]][build-url]
 
-The package provides an SVG composer and parser.
+The package provides an SVG composer, parser, and tesselator.
 
 ## Example: Composing
 
